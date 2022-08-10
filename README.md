@@ -1,6 +1,6 @@
 # Hello there, I'm Rafał  
 
-I am a second year student of Computer Science and Economterics the AGH University. 
+I am a second year student of Computer Science and Economterics at the AGH University. 
 My main interest is programming in C#.
 
 ## Find me on: 
